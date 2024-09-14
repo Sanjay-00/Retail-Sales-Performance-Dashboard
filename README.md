@@ -8,7 +8,7 @@ RetailEdge is a comprehensive Power BI dashboard developed to analyze and visual
 - **Real-Time Data Tracking**: Tracks sales metrics in real-time to provide accurate and up-to-date insights. ⏱️
 - **Customizable Filters**: Includes dynamic filters for regions, product categories, and customer segments to refine analysis. 🔍
 - **Sales Trends**: Displays trends in sales performance over time, helping to identify growth opportunities and underperforming areas. 📅
-- **Product Analysis**: Visualizes top-performing and underperforming products, aiding in inventory management and marketing strategies. 🛒
+- **Product Analysis**: Visualizes top-performing and underperforming products, aiding in inventory management and marketing strategies. 
 - **Customer Insights**: Provides insights into customer demographics and purchasing behavior to enhance targeting and engagement. 🧑‍🤝‍🧑
 
 ## 📊 Key Metrics
