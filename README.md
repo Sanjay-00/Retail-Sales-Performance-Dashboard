@@ -42,7 +42,7 @@ RetailEdge is a comprehensive Power BI dashboard developed to analyze and visual
 Here’s a preview of the RetailEdge dashboard: 
 
 
-![RetailEdge Dashboard](https://i.postimg.cc/66StdB66/Blinkit.png) 
+![Dashboard Preview](https://i.postimg.cc/66StdB66/Blinkit.png)  
 
 
 <!-- Replace with actual URL to your screenshot -->
